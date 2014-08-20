@@ -14,4 +14,4 @@ app.registerModule('example', function () {
     return {
         init: init
     };
-});
+}); // ,true for global initialisation
